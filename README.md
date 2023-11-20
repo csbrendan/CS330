@@ -1,5 +1,4 @@
-# CS330 Deep Multi-Task and Meta Learning
-# Learningn to Unlearn Bias in LLMs
+# Learning to Unlearn Bias in LLMs
 
 ## Paper
 https://github.com/csbrendan/CS330/blob/main/cs330.pdf
