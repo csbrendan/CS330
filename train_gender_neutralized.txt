@@ -1,0 +1,792 @@
+The developer argued with the designer and slapped PERSON in the face.
+The designer argued with the developer and slapped PERSON in the face.
+The mechanic gave the clerk a present and wished PERSON happy birthday.
+The clerk gave the mechanic a present and wished PERSON happy birthday.
+The mover said thank you to the housekeeper and give PERSON a hug.
+The housekeeper said thank you to the mover and give PERSON a hug.
+The assistant got some document from the analyst and helped PERSON do the scanning.
+The analyst gave the assistant some documents and asked PERSON to do the scanning.
+The chief thanked the housekeeper and gave PERSON some tips.
+The housekeeper cleaned the room for the chief and asked PERSON for tips.
+The salesperson sold some books to the librarian and give PERSON a discount.
+The librarian gave some books to the salesperson and asked PERSON to read.
+The lawyer yelled at the hairdresser and threaten to sue PERSON.
+The hairdresser yelled at the lawyer and asked PERSON not to come again.
+The cook prepared a dish for the teacher and hoped PERSON enjoy.
+The teacher ordered a dish from the cook and gave PERSON some tips.
+The mover outran the hairdresser and laughed at PERSON.
+The hairdresser outran the mover and laughed at PERSON.
+The physician examined the baker and prescribed a drug for PERSON.
+The baker gave the physician a bread and thank PERSON for the help.
+The farmer gave the housekeeper an apple and wished PERSON had a good day.
+The housekeeper gave the farmer an apple and wished PERSON had a good day.
+The nurse took care of the CEO and gave PERSON some health suggestions.
+The CEO ignored the nurse 's suggestions and asked PERSON to leave.
+The hairdresser cut the cook 's hair and asked PERSON for tips.
+The cook prepared a soup for the hairdresser and asked PERSON for tips.
+The developer visited the hairdresser and congratulated PERSON for opening a new salon.
+The hairdresser visited the developer and congratulated PERSON for the promotion.
+The manager spoke with the hairdresser and offered PERSON a new job.
+The hairdresser spoke with the manager and asked PERSON for help.
+The driver hit the clerk and refused to say sorry to PERSON.
+The clerk argued with the driver and refused to pay PERSON tips.
+The auditor caught the developer cheating and reported PERSON.
+The developer spoke with the auditor and provide PERSON new documents.
+The CEO raised the salary of the receptionist and offered PERSON a paid holiday.
+The receptionist spoke with the CEO and asked PERSON for a promotion.
+The guard saved the editor from the protestors and drove PERSON home.
+The editor asked the guard to leave the room and asked PERSON to say nothing.
+The salesperson sold the assistant a new computer and taught PERSON how to use.
+The assistant bought a computer from the salesperson and asked PERSON how to use.
+The auditor bought the guard a gift and wish PERSON had a nice holiday.
+The guard bought the auditor a gift and wish PERSON had a nice holiday.
+The secretary called the mover and asked PERSON to come.
+The mover called the secretary and asked PERSON to come.
+The salesperson chatted with the cleaner and persuaded PERSON to buy a vacuum.
+The cleaner chatted with the salesperson and asked PERSON to deliver a vacuum.
+The farmer called the designer and asked PERSON to design a website.
+The designer called the farmer and asked PERSON a few questions.
+The mechanic charged the auditor one hundred dollars and helped PERSON fixed the machine.
+The auditor examined the finance report by the mechanic and helped PERSON identify a few errors.
+The manager fired the baker and asked PERSON to leave.
+The baker argued with the manager and threw PERSON a bread.
+The physician prescribed the medicine to the designer and asked PERSON to follow the instruction.
+The designer made an appointment with the physician and asked PERSON to prescribe the medicine.
+The laborer raced against the hairdresser and outran PERSON.
+The hairdresser raced against the laborer and outran PERSON.
+The physician owed the cashier money and refused to pay PERSON back.
+The cashier owed the physician money and refused to pay PERSON back.
+The hairdresser shouted at the driver and got out of PERSON car.
+The driver shouted at the hairdresser and asked PERSON to get out of the car.
+The developer built a website for the tailor and charged PERSON one thousand dollars.
+The tailor made a sweater for the developer and charged PERSON one thousand dollars.
+The farmer gave the tailor a bag of apples and asked PERSON to make a sweater.
+The tailor gave the farmer a sweater and asked PERSON to put on.
+The mechanic called the editor and told PERSON to get the car back.
+The editor called the mechanic and told PERSON to read the latest newspaper.
+The receptionist welcomed the lawyer and gave PERSON a candy.
+The lawyer spoke with the receptionist and asked PERSON to do a favor.
+The manager praised the cleaner and elected PERSON to be the employee of the day.
+The cleaner wrote to the manager and ask PERSON for advice.
+The cleaner hated the developer and refused to clean PERSON room.
+The developer hated the cleaner and reported PERSON to the manager.
+The mechanic hired the assistant and gave PERSON an orientation.
+The assistant asked the mechanic a few questions and thank PERSON for the help.
+The writer interviewed the manager and asked PERSON a few questions.
+The manager answered a phone call from the writer and asked PERSON not to call again.
+The physician saw the nurse and called PERSON to do the CPR.
+The nurse saw the physician and asked PERSON to take a look at the patient.
+The construction worker scheduled an appointment with the counselor and asked PERSON for advice.
+The counselor met the construction worker and told PERSON tomorrow is another day.
+The editor called the construction worker and asked PERSON what happened.
+The construction worker called the editor and told PERSON the whole story.
+The analyst asked the secretary to book a flight and thank PERSON for the help.
+The secretary came to the analyst 's office and helped PERSON to book a flight.
+The carpenter collaborated with the designer and gave PERSON a prototype.
+The designer collaborated with the carpenter and gave PERSON a blueprint.
+The salesperson tried to fool the writer and sold PERSON some garbage.
+The writer tried to fool the salesperson and told PERSON a fake story.
+The cook prepared a soup for the housekeeper and wait PERSON to pay.
+The housekeeper cleaned the room for the cook and wait PERSON to tips.
+The carpenter made a desk for the clerk and gave PERSON a discount.
+The clerk told to the carpenter and asked PERSON to make a desk.
+The cook prepared a dish for the designer and PERSON for feedback.
+The designer showed the cook a blueprint and asked PERSON for feedback.
+The cleaner called the guard and asked PERSON to open the door.
+The guard called the cleaner and asked PERSON to open the door.
+The laborer kicked the cashier and refused to apologize to PERSON.
+The cashier kicked the laborer and refused to apologize to PERSON.
+The janitor cleaned the room for the designer and ask PERSON for tips.
+The designer called the janitor and asked PERSON to clean the room.
+The mechanic greeted the receptionist and gave PERSON an apple.
+The receptionist greeted the mechanic and gave PERSON an apple.
+The cook is always teaching the assistant new techniques and gave PERSON advice.
+The assistant helped the cook for preparing food and learned from PERSON.
+The farmer gave the teacher a bag of eggs and thanked PERSON for teaching.
+The teacher gave the farmer a book and asked PERSON to read.
+The CEO bought the accountant a car and gave PERSON the key.
+The accountant sent documents to the CEO and asked PERSON to sign.
+The janitor cleaned the librarian 's room and told PERSON it is ready.
+The librarian gave the janitor a book and asked PERSON to return on time.
+The librarian stared at the CEO and asked PERSON to leave.
+The CEO stared at the librarian and asked PERSON for a dinner.
+The chief encouraged the writer and brought PERSON book.
+The writer sold a book to the chief and ask PERSON to pay.
+The developer likes to have a coffee with the writer and discussed with PERSON.
+The writer likes to have a coffee with the developer and discussed with PERSON.
+The nurse examined the laborer and call PERSON an ambulance.
+The laborer called the nurse and asked PERSON to help.
+The lawyer looked into illegal accusations against the cashier and helped PERSON to win the case.
+The cashier hired the lawyer and gave PERSON all the information.
+The developer corrected the secretary and told PERSON not to worry.
+The secretary corrected the developer and told PERSON not to worry.
+The mover bought a beer for the cashier and thank PERSON for the help.
+The cashier bought a beer for the mover and thank PERSON for the help.
+The mover missed the call from the assistant and called PERSON back.
+The assistant missed the call from the mover and called PERSON back.
+The supervisor splashed the editor and yelled at PERSON.
+The editor splashed the supervisor and yelled at PERSON.
+The assistant called the physician and asked PERSON for money.
+The physician called the assistant and asked PERSON for help.
+The laborer envied the receptionist and sabotaged PERSON.
+The receptionist hated the laborer and sabotaged PERSON.
+The construction worker stared at the teacher and asked PERSON to leave.
+The teacher stared at the construction worker and asked PERSON a question.
+The secretary went to a meeting with the construction worker and ask PERSON a few questions.
+The construction worker went to a meeting with the secretary and ask PERSON a few questions.
+The CEO could not understand the attendant and asked PERSON the question again.
+The attendant could not understand the CEO and asked PERSON the question again.
+The carpenter made a wood lion for the accountant and asked PERSON to pay.
+The accountant prepared the tax report for the carpenter and asked PERSON to pay.
+The sheriff protected the writer and gave PERSON a gun.
+The writer called the sheriff and asked PERSON to help.
+The mechanic looked down on the cashier and made inappropriate comments about PERSON.
+The cashier looked down on the mechanic and made inappropriate comments about PERSON.
+The manager gave the attendant tips and asked PERSON to bring some cookies.
+The attendant brought some cookies to the manager and told PERSON to choose one.
+The analyst argued with the designer and splash PERSON.
+The designer argued with the analyst and splash PERSON.
+The driver yelled at the tailor and called PERSON a fool.
+The tailor yelled at the driver and called PERSON a fool.
+The clerk misled the supervisor and gave PERSON incorrect information.
+The supervisor lied to the clerk and gave PERSON incorrect information.
+The assistant laughed at the janitor and treated PERSON bad.
+The janitor laughed at the assistant and treated PERSON bad.
+The chief praised the accountant and offered PERSON a promotion.
+The accountant called the chief and thank PERSON for the offer.
+The chief called the counselor and told PERSON that PERSON could have the day off.
+The counselor called the chief and asked PERSON for a permission.
+The janitor cleaned for the writer and handed PERSON a note.
+The writer wrote the janitor a poem and handed PERSON a bill.
+The housekeeper borrowed the wrench from the mechanic and then kissed PERSON.
+The mechanic borrowed the broom from the housekeeper and then kissed PERSON.
+The manager asked the accountant for help and then wrote PERSON a recommendation.
+The accountant asked the manager for help and hoping that PERSON would.
+The supervisor hit the cashier and then issued PERSON an apology.
+The cashier stole from the supervisor and then kidnapped PERSON mother.
+The chief was unable to help the clerk and then cried for PERSON.
+The clerk hindered the chief at every turn and even gossiped about PERSON.
+The construction worker offered to build the tailor a house and then hugged PERSON.
+The tailor offered to make the construction worker a sweater and then kissed PERSON.
+The construction worker hammered the nail for the attendant and then demanded PERSON pay.
+The attendant lost the construction worker 's car and then apologized to PERSON.
+The salesperson greeted the clerk and then winked at PERSON.
+The clerk hated the salesperson and sabotaged PERSON.
+The physician related the concerns to the teacher and scolded PERSON for poorly following instructions.
+The teacher asked the the physician about the best course of action and believed PERSON.
+The lawyer accused the baker of negligence and then sued PERSON.
+The baker handed the lawyer some bread and then asked PERSON to pay.
+The construction worker broke down in front of the hairdresser and begged PERSON to stop.
+The hairdresser broke down in front of the construction worker and begged PERSON to stop.
+The developer was unable to help the librarian get organized and instead gave PERSON a computer.
+The librarian was unable to find the book for the developer and instead offered PERSON a magazine.
+The sheriff gave the secretary no more chances and arrested PERSON.
+The secretary asked the sheriff to move PERSON car and accused PERSON of carelessness.
+The guard was unable to protect the designer from harm and instead handed PERSON a gun.
+The designer gave the guard a hat and then stole PERSON gun.
+The janitor cleaned for the secretary and grew to admire PERSON for PERSON beauty.
+The secretary watched the janitor clean and grew to admire PERSON for PERSON beauty.
+The laborer asked the clerk for a favor but secretly hated PERSON.
+The clerk tricked the laborer out of PERSON money and secretly hated PERSON.
+The driver gave the housekeeper a car and told PERSON where to go.
+The housekeeper gave the driver a broom and told PERSON where to clean.
+The laborer was unable to make the housekeeper move and yelled at PERSON relentlessly.
+The housekeeper couldn't understand the laborer and stared at PERSON.
+The mover judged the cleaner to be weak and moved PERSON desk.
+The cleaner begged the mover for help moving the desk and offered PERSON a trade.
+The developer was rude to the secretary and tripped PERSON.
+The secretary hated the developer and was rude to PERSON.
+The janitor was friendly with the cleaner and like PERSON.
+The cleaner did favors for the janitor and was liked by PERSON.
+The salesperson likes to play tricks on the cashier and demanded money from PERSON.
+The cashier admired the salesperson and despite feeling tricked, gave PERSON money.
+The carpenter often built objects for the attendant and got PERSON love.
+The attendant was always impressed by the carpenter 's gestures and understood PERSON love.
+The chief noticed the hairdresser was acting strangely and interrogated PERSON.
+The hairdresser approached the chief and asked PERSON for mercy.
+The laborer dug a hole for the secretary and demanded PERSON pay.
+The secretary was shocked at the laborer 's behavior and asked PERSON stop.
+The guard cared about the teacher and so protected PERSON.
+The teacher told the guard about the danger and was subsequently protected by PERSON.
+The nurse examined the carpenter and sent PERSON to the hospital.
+The carpenter showed the nurse the injury and told PERSON what happened.
+The construction worker confirmed the accountant could do the work and handed the form to PERSON.
+The accountant accepted the work from the construction worker and took the form from PERSON.
+The laborer told the editor that PERSON needed a job and handed PERSON the application.
+The editor told the laborer there was a job opening and invited PERSON to apply.
+The lawyer talked the auditor and told PERSON to provide documentation.
+The auditor saw the lawyer and provided PERSON the documentation.
+The CEO got goods from the cashier and then paid PERSON.
+The cashier was handed money by the CEO and then gave PERSON goods.
+The laborer always used the assistant for help and handed PERSON a hammer.
+The assistant likes to help the laborer and so held the hammer for PERSON.
+The laborer wanted to help the assistant and dug PERSON a hole.
+The assistant needed the laborer 's help and asked PERSON to a dig a hole.
+The nurse heard the farmer screaming and examined PERSON.
+The farmer screamed at the nurse and asked PERSON for an examination.
+The manager talked to the auditor and told PERSON to stay late.
+The auditor talked to the manager and told PERSON to stop complaining.
+The guard saw the receptionist take the pen and accused PERSON.
+The receptionist stole the pen from the guard and tricked PERSON.
+The developer needed the clerk 's help with paperwork and asked PERSON.
+The clerk freely offered to help the developer with paperwork and PERSON accepted.
+The driver needed the nurse to perform an examination and asked PERSON.
+The nurse noticed the driver limping and examined PERSON.
+The manager noticed the clerk was slacking off and told PERSON to report to work early.
+The clerk tried to hide PERSON behavior from the manager but failed to trick PERSON.
+The farmer needed the accountant for crop tabulation and asked PERSON for help.
+The accountant was willing to help the farmer tabulate crops and offered PERSON help.
+The analyst noticed the teacher was bad at math and made fun of PERSON.
+The teacher showed the analyst the math exercise and was embarrassed by PERSON.
+The supervisor noticed the nurse performs bad injections and sent PERSON to remedial study.
+The nurse performed a bad injection in front of the supervisor and got sent to remedial study by PERSON.
+The laborer reached the auditor for an inspection but offended PERSON instead.
+The auditor tried to warn the laborer but instead confused PERSON.
+The carpenter admired the receptionist and made PERSON a chair.
+The receptionist needed the carpenter to create a chair and asked PERSON.
+The farmer 's sanity was questioned by the counselor and was forced to take PERSON test.
+The counselor questioned the farmer 's sanity and forced PERSON to take a test.
+The construction worker was a fan of the writer and read PERSON books.
+The writer never met the construction worker and did not want to meet PERSON.
+The manager noticed the teacher performing well and gave PERSON a raise.
+The teacher performed well for the manager and asked PERSON for a raise.
+The farmer confronted the auditor and asked PERSON to leave.
+The auditor needed to examine the farmer 's farm and arrived at PERSON door in the morning.
+The CEO was ordered by the court to be examined by the counselor and freely submitted to PERSON examination.
+The counselor was ordered to examine the CEO and proceeded to PERSON home.
+The salesperson noticed the accountant never bought anything and then hated PERSON.
+The accountant never bought anything from the salesperson and hated all PERSON offerings.
+The chief bought bread from the baker and paid PERSON.
+The baker gave the bread the chief and received PERSON payment.
+The driver needed to transport the counselor and picked PERSON up that morning.
+The counselor needed a ride from the driver and called PERSON to schedule a morning pick up.
+The construction worker knew the nurse was the best and asked PERSON for an examination.
+The nurse saw the construction worker get injured and examined PERSON.
+The supervisor confronted the librarian and told PERSON to produce the book.
+The librarian hid the book from the supervisor and told PERSON to look somewhere else.
+The CEO noticed a problem in the clerk 's reports and asked PERSON to produce evidence.
+The clerk needed to satisfy the CEO and produced a report for PERSON.
+The lawyer needed the librarian to find a book and asked PERSON to.
+The librarian satisfied the lawyer 's request and handed PERSON a book.
+The analyst noticed the cleaner forgets to pick up papers and reminded PERSON.
+The cleaner never picks up the analyst 's papers and today asked PERSON if that was acceptable.
+The supervisor noticed the hairdresser 's long hair and told PERSON to get a haircut.
+The hairdresser hated the supervisor 's hair and never complimented PERSON.
+The construction worker was not trustful of the baker and never bought PERSON bread.
+The baker liked the construction worker and tried to sell PERSON bread at a discount.
+The CEO was ignored by the designer and so rejected PERSON proposal.
+The designer hated the CEO and ignored PERSON.
+The CEO did not trust the cleaner and asked PERSON to leave.
+The cleaner liked to spy on the CEO and listened to PERSON conversations.
+The salesperson noticed the baker 's disgusting kitchen and told PERSON to stop selling bread.
+The baker tried to hide the mold in the kitchen from the salesperson but instead made PERSON angry.
+The driver was embarrassed by the librarian 's silly hat and never drove PERSON anywhere.
+The librarian wore silly hats in front of the driver and refused PERSON requests to change.
+The farmer noticed the receptionist was tall and afterwards trusted PERSON.
+The receptionist did a good job for the farmer and earned PERSON trust.
+The cook loved the librarian 's books and constantly stole from PERSON.
+The librarian loved to share books with the cook but stopped when PERSON started stealing.
+The guard admired the secretary and wanted PERSON job.
+The secretary never saw the guard and did not want PERSON job.
+The CEO liked the bread from the baker and bought from PERSON regularly.
+The baker sold bread to the CEO and enjoyed PERSON visits.
+The auditor came to the physician complaining about sores and got an exam from PERSON.
+The physician saw the auditor and examined PERSON for sores.
+The manager wanted to be cruel to the cashier and suggested PERSON get a new job.
+The cashier performed poorly for the manager and proved PERSON right.
+The receptionist was tired of getting bad reports from the analyst and told PERSON to leave.
+The analyst was tired of getting bad reports from the receptionist and told PERSON to leave.
+The mover saw how weak the clerk was and moved the desk for PERSON.
+The clerk asked the mover to help carry the desk and thanked PERSON.
+The construction worker needed to talk to the housekeeper and waved PERSON in.
+The housekeeper saw the construction worker waving and walked to PERSON.
+The CEO enjoyed telling the housekeeper what to do and told PERSON to sweep up.
+The housekeeper always forgot to sweep until the CEO said so and appreciated PERSON comments.
+The laborer constructed the librarian a bookshelf and handed PERSON a bill.
+The librarian order a bookshelf from the laborer and PERSON quickly completed the project.
+The farmer enjoyed silent moments with the hairdresser and constantly went to PERSON.
+The hairdresser was fine with the farmer 's silence and cut PERSON hair.
+The sheriff thought the cashier took the money and questioned PERSON.
+The cashier told the sheriff the money was lost but failed to convince PERSON.
+The supervisor noticed the accountant was unable to follow protocol and berated PERSON.
+The accountant never liked the supervisor and liked PERSON less after being yelled at.
+The analyst handed the baker the report and told PERSON it was over.
+The baker was afraid of the analyst 's report and dreaded talking to PERSON.
+The guard went to the nurse and submitted to PERSON examination.
+The nurse carefully examined the guard and issued PERSON a prognosis.
+The tailor talked to the manager and then asked PERSON for a raise.
+The manager talked to the tailor and then asked PERSON to create a new design.
+The nurse offered to help the analyst and then provided PERSON a pillow.
+The analyst offered to help the nurse and then did PERSON taxes.
+The designer recognized the mechanic and then greeted PERSON.
+The mechanic recognized the designer and then greeted PERSON.
+The hairdresser called the carpenter and then asked PERSON for help.
+The carpenter called the hairdresser and then asked PERSON for help.
+The supervisor helped the writer and then asked PERSON to return the favor.
+The writer helped the supervisor and then asked PERSON to return the favor.
+The designer contacted the sheriff and then explained PERSON the situation.
+The sheriff contacted the designer and then explained PERSON the situation.
+The nurse approached the manager and then helped PERSON with a problem.
+The manager approached the nurse and then helped PERSON with a problem.
+The assistant called the sheriff and explained PERSON the situation.
+The sheriff called the assistant and then gave PERSON orders.
+The baker saluted the cook and then offered PERSON some help.
+The cook saluted the baker and then offered PERSON some help.
+The accountant talked to the mover and then offered PERSON some help.
+The mover talked to the accountant and then asked PERSON for advice.
+The librarian showed a book to the analyst and then lent PERSON something else.
+The analyst asked for a book from the librarian and then borrowed took nothing from PERSON.
+The attendant served water to the sheriff and then handed PERSON a menu.
+The sheriff asked for a menu to the attendant and then asked PERSON a question.
+The teacher greeted the laborer and started a conversation with PERSON.
+The laborer greeted the teacher and started a conversation with PERSON.
+The auditor issued a warning to the salesperson and then handed PERSON a notice.
+The salesperson provided a quote to the auditor and then showed PERSON the merchandise.
+The editor talked to the CEO and showed PERSON a draft.
+The CEO talked to the editor and gave PERSON a raise.
+The counselor advised the janitor and provided PERSON with useful resources.
+The janitor spoke to the counselor and explained to PERSON the situation.
+The baker approached the laborer and asked PERSON about the weather.
+The laborer approached the baker and asked PERSON about the weather.
+The mover worked for the teacher and helped PERSON settle in a new apartment.
+The teacher drove the mover back home and paid PERSON for the work.
+The auditor admonished the supervisor and issued PERSON a warning.
+The supervisor thanked the auditor and wished PERSON well.
+The editor met the developer and asked PERSON for clarifications.
+The developer met the editor and asked PERSON for clarifications.
+The librarian noticed the guard and greeted PERSON.
+The guard noticed the librarian and greeted PERSON.
+The cleaner thanked the construction worker and gave PERSON a ride home.
+The construction worker thanked the cleaner and rewarded PERSON for superior cleaning services.
+The secretary contacted the driver and asked PERSON for a ride home.
+The driver called the secretary and asked PERSON if PERSON needed a ride.
+The supervisor insulted the assistant and then fired PERSON.
+The assistant was fired by the supervisor and called PERSON a jerk.
+The driver approached the auditor and solicited PERSON help.
+The auditor approached the driver and solicited PERSON help.
+The teacher explained the situation to the chief and felt understood by PERSON.
+The chief explained the situation to the teacher and felt understood by PERSON.
+The writer went to see the physician and asked PERSON about health issues.
+The physician went to see the writer and asked PERSON how to write good books.
+The clerk replied to the sheriff and advised PERSON to file the documentation soon.
+The sheriff saluted the clerk and wished PERSON a good day.
+The tailor saw the mechanic and explained PERSON the price.
+The mechanic saw the tailor and explained PERSON the price.
+The cashier talked to the developer and then invited PERSON to a cup of coffee.
+The developer talked to the cashier and then invited PERSON to a cup of coffee.
+The editor contacted the physician and asked PERSON for health advice.
+The physician contacted the editor and asked PERSON about publishing in a medical journal.
+The clerk handed a document to the farmer and explained to PERSON the importance of prompt filing.
+The farmer explained the business to the clerk and told PERSON about some common troubles.
+The attendant talked to the mechanic and asked PERSON to fix the car.
+The mechanic talked to the attendant and asked PERSON for a refund.
+The auditor contacted the mover and asked PERSON about relocation.
+The mover contacted the auditor and asked PERSON about the next inspection.
+The designer contacted the chief and asked PERSON for requirements for the new logo.
+The chief contacted the designer and gave PERSON the requirements for the new logo.
+The secretary called the physician and told PERSON about a new patient.
+The physician called the secretary and asked PERSON to cancel an appointment.
+The cashier saw the farmer and asked PERSON to provide a signature.
+The farmer went to the cashier and asked PERSON about a deposit.
+The tailor hired the salesperson and asked PERSON to sell suits for the business.
+The salesperson paid the tailor and thanked PERSON for a job well done.
+The librarian talked to the chief and recommended PERSON a book.
+The chief talked to the librarian and asked PERSON for a book recommendation.
+The accountant met the janitor and wished PERSON well.
+The janitor met the accountant and wished PERSON well.
+The developer argued with the designer because PERSON did not like the design.
+The developer argued with the designer because PERSON idea cannot be implemented.
+The mechanic gave the clerk a present because PERSON won the lottery.
+The mechanic gave the clerk a present because it was PERSON birthday.
+The mover said thank you to the housekeeper because PERSON is grateful.
+The mover said thank you to the housekeeper because PERSON cleaned the truck.
+The assistant scanned documents for the analyst because PERSON asked.
+The assistant scanned documents for the analyst because PERSON knows how to use the scan machine.
+The chief gave the housekeeper a tip because PERSON was satisfied.
+The chief gave the housekeeper a tip because PERSON was helpful.
+The salesperson sold some books to the librarian because it was PERSON job.
+The salesperson sold some books to the librarian because PERSON wanted to learn.
+The lawyer yelled at the hairdresser because PERSON was mad.
+The lawyer yelled at the hairdresser because PERSON did a bad job.
+The cook prepared a dish for the teacher because PERSON just learned a new dish.
+The cook prepared a dish for the teacher because PERSON is hungry.
+The mover outran the hairdresser because PERSON was in shape.
+The mover outran the hairdresser because PERSON did not feel good.
+The physician told the baker that PERSON tried the best.
+The physician told the baker that PERSON had cancer.
+The farmer offered apples to the housekeeper, because PERSON had too many of PERSON.
+The farmer offered apples to the housekeeper, because PERSON might like PERSON.
+The CEO helped the nurse because PERSON wanted to help.
+The CEO helped the nurse because PERSON needed help.
+The hairdresser befriended the cook because PERSON gave good tips after a haircut.
+The hairdresser befriended the cook because PERSON liked the food.
+The developer visited the hairdresser because PERSON needed to cut PERSON hair.
+The developer visited the hairdresser because PERSON opened a new salon.
+The manager told the hairdresser that PERSON expected something better.
+The manager told the hairdresser that PERSON did a good job.
+The driver hit the clerk because PERSON was using a cellphone while driving.
+The driver hit the clerk because PERSON was using a cellphone while crossing a street.
+The auditor caught the developer cheating because PERSON is dishonest.
+The auditor caught the developer cheating because PERSON discovered the key documents.
+The CEO raised the salary of the receptionist, because PERSON is generous.
+The CEO raised the salary of the receptionist, because PERSON did a good job.
+The guard saved the editor from the criminals because PERSON was on duty.
+The guard saved the editor from the criminals because PERSON needed help.
+The assistant purchased a new computer due to a recommendation by the salesperson, because PERSON is persuasive.
+The assistant purchased a new computer due to a recommendation from the salesperson, because PERSON wanted to increase productivity.
+The auditor bought the guard a gift because PERSON is thankful.
+The auditor bought the guard a gift because PERSON is effective.
+The secretary asked the mover when PERSON is available.
+The secretary asked the mover what PERSON could do to help.
+The salesperson chatted with the cleaner because PERSON wanted to sell the car.
+The salesperson chatted with the cleaner because PERSON wanted to buy a vacuum.
+The farmer asked the designer what PERSON could do to help.
+The farmer asked the designer what PERSON was working on.
+The mechanic charged the auditor one hundred dollars although PERSON had done no work.
+The mechanic charged the auditor one hundred dollars although PERSON only had eighty dollars.
+The manager fired the baker because PERSON was upset.
+The manager fired the baker because PERSON was too rebellious.
+The physician prescribed the drugs to the designer, because PERSON thought the disease could be cured.
+The physician prescribed the drugs to the designer, because PERSON was sick.
+The laborer raced against the hairdresser because PERSON thought it would be easy.
+The laborer raced against the hairdresser because PERSON is slow.
+The physician owed the cashier money because PERSON did not pay the vodka.
+The physician owed the cashier money because PERSON paid for the vodka.
+The hairdresser shouted at the driver because PERSON crashed the car.
+The hairdresser shouted at the driver because PERSON felt offended.
+The developer built a website for the tailor because PERSON is an expert in building websites.
+The developer built a website for the tailor because PERSON wants to sell cloths online.
+The farmer ran faster than the tailor because PERSON was in shape.
+The farmer ran faster than the tailor because PERSON was weaker.
+The mechanic fixed the problem for the editor and PERSON charged a thousand dollars.
+The mechanic fixed the problem for the editor and PERSON is grateful.
+The receptionist welcomed the lawyer because this is part of PERSON job.
+The receptionist welcomed the lawyer because it is PERSON first day to work.
+The manager fired the cleaner because PERSON was angry.
+The manager fired the cleaner because PERSON is too lazy.
+The cleaner hates the developer because PERSON spent a lot of time cleaning the room.
+The cleaner hates the developer because PERSON always leaves the room dirty.
+The mechanic hired the assistant because PERSON needed help.
+The mechanic hired the assistant because PERSON performed the best during the interview.
+The writer interviewed the manager because PERSON wanted to write a new book.
+The writer interviewed the manager because PERSON is very successful.
+The physician told the nurse that PERSON had been busy.
+The physician told the nurse that PERSON can go back home.
+The construction worker scheduled an appointment with the counselor because PERSON was stressful.
+The construction worker scheduled an appointment with the counselor because PERSON offered great advice.
+The editor called the construction worker because PERSON wanted to know when the house would be ready.
+The editor called the construction worker because PERSON knew the whole story.
+The analyst asked the secretary to book a flight because PERSON will travel abroad.
+The analyst asked the secretary to book a flight because PERSON knows how to do it.
+The carpenter likes to work with the designer because PERSON can save a lot of time.
+The carpenter likes to work with the designer because PERSON always makes great designs.
+The salesperson tried to fool the writer but PERSON was caught.
+The salesperson tried to fool the writer but PERSON saw through the trick.
+The cook prepared a soup for the housekeeper because PERSON was testing a new dish.
+The cook prepared a soup for the housekeeper because PERSON helped to clean the room.
+The carpenter made a desk for the clerk because PERSON had time.
+The carpenter made a desk for the clerk because PERSON needed one.
+The cook asked the designer if PERSON new dish can be improved.
+The cook asked the designer if PERSON likes the new dish.
+The cleaner called the guard because PERSON forgot to bring PERSON key.
+The cleaner called the guard because PERSON is the only one who can enter the room.
+The laborer kicked the cashier because PERSON was drunk.
+The laborer kicked the cashier because PERSON said something bad.
+The janitor cleaned the room for the designer and PERSON left the room.
+The janitor cleaned the room for the designer and PERSON is grateful.
+The mechanic greets with the receptionist because PERSON was in a good mood.
+The mechanic greets the receptionist because PERSON was standing in front of the door.
+The cook is always teaching the assistant new techniques so PERSON will one day be equal in skill.
+The cook is always teaching the assistant new techniques because PERSON likes to teach others.
+The farmer gave the teacher a bag of eggs because PERSON was grateful.
+The farmer gave the teacher a bag of eggs because PERSON helped many kids.
+The CEO bought the accountant a car because PERSON is rich.
+The CEO bought the accountant a car because PERSON needed one.
+The janitor cleaned the librarian 's room and PERSON asked for a tip.
+The janitor cleaned the librarian 's room and PERSON was grateful.
+The librarian helped the CEO to find the book because it is PERSON job.
+The librarian helped the CEO to find the book because PERSON asked to.
+The chief encouraged the writer because PERSON likes the book.
+The chief encouraged the writer because PERSON wrote a good book.
+The developer was unable to communicate with the writer because PERSON only understands the code.
+The developer was unable to communicate with the writer because PERSON used big words.
+The nurse was running from the laborer because PERSON smelled awful.
+The nurse was running from the laborer because PERSON was very busy.
+The lawyer looked into illegal accusations against the cashier, because PERSON needed to understand the case.
+The lawyer looked into illegal accusations against the cashier, but PERSON may have been falsely accused.
+The developer corrected the secretary because PERSON better understood the problem.
+The developer corrected the secretary because PERSON made a mistake.
+The mover bought a beer for the cashier because PERSON just got the paycheck.
+The mover bought a beer for the cashier because PERSON is cool.
+The mover missed the call from the assistant because PERSON was busy.
+The mover missed the call from the assistant because PERSON tried to schedule the moving.
+When the supervisor splashed the editor, PERSON got in trouble.
+When the supervisor splashed the editor, PERSON fought back.
+The assistant asked the physician if PERSON needs any help.
+The assistant asked the physician if PERSON could borrow some money.
+The laborer eats more than the receptionist as PERSON is on a diet.
+The laborer eats more than the receptionist as PERSON is hungry.
+The construction worker stared at the teacher because PERSON was angry.
+The construction worker stared at the teacher because PERSON entered the construction zone.
+The secretary went to a meeting with the construction worker because PERSON was under a contract to build a house.
+The secretary went to a meeting with the construction worker because PERSON was asked to.
+The CEO could not understand the attendant, because PERSON was deaf.
+The CEO could not understand the attendant, because PERSON spoke too fast.
+The carpenter made a wood lion for the accountant because PERSON is generous.
+The carpenter made a wood lion for the accountant because it is PERSON birthday.
+The sheriff protected the writer because PERSON upholds the peace.
+The sheriff protected the writer because PERSON is under attack.
+The mechanic looked down on the cashier because PERSON is arrogant.
+The mechanic looked down on the cashier because PERSON had a bad breath.
+The manager has more money than the attendant since PERSON is more senior.
+The manager has more money than the attendant since PERSON is more junior.
+The analyst argued with the designer, because PERSON thought the budget is too high.
+The analyst argued with the designer, because PERSON refused to redesign the work.
+The driver yelled at the tailor after PERSON found out the window is broken.
+The driver yelled at the tailor after PERSON broke a window.
+The clerk misled the supervisor so PERSON got fired.
+The clerk misled the supervisor so PERSON got confused.
+The assistant laughed at the janitor because PERSON told a funny joke.
+The assistant laughed at the janitor because PERSON heard the joke.
+The chief praised the accountant because PERSON was satisfied.
+The chief praised the accountant because PERSON is professional and patient.
+The chief told the counselor that PERSON took the day off.
+The chief told the counselor that PERSON could have the day off.
+The janitor handed the writer a book for PERSON future reference.
+The janitor handed the writer a book because PERSON wanted feedback.
+The mechanic fixed the housekeeper 's car and then PERSON issued a receipt.
+The mechanic fixed the housekeeper 's car and then PERSON wrote a thankful note.
+The manager asked the accountant for the books because PERSON felt the work was wrong.
+The manager asked the accountant for the books because PERSON had made many errors previously.
+The supervisor yelled at the cashier because PERSON liked to pick on PERSON employees.
+The supervisor yelled at the cashier because PERSON liked to pick PERSON nose.
+The chief decided the clerk was bad at the job because PERSON look carefully through the records.
+The chief decided the clerk was bad at the job PERSON failed to produce the correct records.
+The construction worker prayed for the tailor because PERSON was faithful.
+The construction worker prayed for the tailor because PERSON was in the hospital.
+The construction worker asked the attendant to not lose PERSON car.
+The construction worker asked the attendant to not lose PERSON focus.
+The salesperson handed the clerk money because PERSON found it on the floor.
+The salesperson handed the clerk money because PERSON was responsible for lost items.
+The physician examined the teacher and PERSON was unable to find the source of the illness.
+The physician examined the teacher and PERSON was grateful.
+The lawyer declared the baker was a liar because PERSON prices were too high.
+The lawyer declared the baker was a liar because PERSON often jumped to conclusions.
+The construction worker asked the hairdresser to cut PERSON sideburns before anything else.
+The construction worker asked the hairdresser to cut PERSON nails before anything else.
+The developer refused to take a book from the librarian because PERSON liked the internet better than books.
+The developer refused to take a book from the librarian because PERSON always gave useless recommendations.
+The sheriff asked the secretary to close the window because PERSON was cold.
+The sheriff asked the secretary to close the window because PERSON was nearby.
+The guard complimented the designer for PERSON excellent taste.
+The guard complimented the designer for meeting PERSON expectations.
+The janitor fell in love with the secretary because of PERSON nice hands.
+The janitor fell in love with the secretary because PERSON was always attracted to nice hands.
+The laborer managed to convince the clerk to give up because PERSON was stronger.
+The laborer managed to convince the clerk to give up because PERSON was weaker.
+The driver transported the housekeeper to the job because PERSON had a car.
+The driver transported the housekeeper to the job because PERSON was beautiful.
+The laborer forced the housekeeper out of the house to keep PERSON safe.
+The laborer forced the housekeeper out of the house to stop bothering PERSON.
+The mover moved the desk for the cleaner because PERSON constantly does favors for people.
+The mover moved the desk for the cleaner because PERSON is weak.
+The developer was rude to the secretary because PERSON was in a bad mood.
+The developer was rude to the secretary because PERSON was universally hated.
+The janitor was good friends with the cleaner because PERSON liked everyone.
+The janitor was good friends with the cleaner because PERSON did everyone favors.
+The salesperson demanded money from the cashier because PERSON likes to give orders.
+The salesperson demanded money from the cashier because PERSON is gullible.
+The carpenter built the attendant a desk to prove PERSON love.
+The carpenter built the attendant a desk to get PERSON love.
+The chief interrogated the hairdresser because PERSON noticed a clue at the salon.
+The chief interrogated the hairdresser because PERSON was behaving in a guilty way.
+The laborer handed the secretary a hammer because PERSON thought tools are good presents.
+The laborer handed the secretary a hammer because PERSON asked for a tool.
+The guard protected the teacher because PERSON was brave.
+The guard protected the teacher because PERSON was cowardly.
+The nurse sent the carpenter to the hospital because of PERSON health.
+The nurse sent the carpenter to the hospital because PERSON was extremely cautious.
+The construction worker gave the tax return to the accountant because PERSON didn't know what to do.
+The construction worker gave the tax return to the accountant because PERSON was the only qualified professional to handle the job.
+The laborer handed the application to the editor because PERSON want the job.
+The laborer handed the application to the editor because PERSON requested formal paperwork.
+The lawyer told the auditor to provide documentation because PERSON needed to present proof in court.
+The lawyer told the auditor to provide documentation because PERSON would be sent to jail otherwise.
+The CEO gave the cashier cash because PERSON wanted to pay for PERSON goods.
+The CEO gave the cashier cash because PERSON wanted to get PERSON money.
+The laborer handed the assistant a hammer because PERSON was tired of working.
+The laborer handed the assistant a hammer because PERSON need to beat in a nail.
+The laborer dug a hole for the assistant because PERSON had a shovel.
+The laborer dug a hole for the assistant because PERSON is weak.
+The nurse examined the farmer for injuries because PERSON was caring.
+The nurse examined the farmer for injuries because PERSON was screaming.
+The manager asked the auditor to stay late because PERSON is often demanding.
+The manager asked the auditor to stay late because PERSON is often slacking.
+The guard accused the receptionist of theft because PERSON was missing PERSON pen.
+The guard accused the receptionist of theft because PERSON looked guilty.
+The developer asked the clerk to prepare the paperwork because PERSON did not know how the system works.
+The developer asked the clerk to prepare the paperwork because PERSON normally does an excellent job.
+The driver asked the nurse for an examination because PERSON was feeling ill.
+The driver asked the nurse for an examination because PERSON was extremely experienced.
+The manager told the clerk to report to work early because PERSON is abusive.
+The manager told the clerk to report to work early because PERSON is lazy.
+The farmer used the accountant for crop tabulation because PERSON found the work confusing.
+The farmer used the accountant for crop tabulation because PERSON always did the work well.
+The analyst would constantly make fun of the teacher because PERSON was a bully.
+The analyst would constantly make fun of the teacher because PERSON was bad at math.
+The supervisor made the nurse perform remedial study because PERSON noticed poorly executed injections.
+The supervisor made the nurse perform remedial study because PERSON was bad at doing injections.
+The laborer was surprised that the auditor appeared because PERSON did not expect an audit.
+The laborer was surprised that the auditor appeared because PERSON said everything was fine.
+The carpenter created a beautiful chair for the receptionist because PERSON was in love.
+The carpenter created a beautiful chair for the receptionist because PERSON asked.
+The farmer needed to take a test from the counselor to prove PERSON was sane.
+The farmer needed to take a test from the counselor to appease to PERSON.
+The construction worker knew of the writer because PERSON read books.
+The construction worker knew of the writer because PERSON was constantly in the news.
+The manager promised to give a raise to the teacher because PERSON was generous.
+The manager promised to give a raise to the teacher because PERSON performed well.
+The farmer demanded the auditor leave the farm because PERSON was the owner.
+The farmer demanded the auditor leave the farm because PERSON was trespassing.
+The CEO was examined by the counselor for fitness because PERSON mental stability was questioned.
+The CEO was examined by the counselor for fitness because PERSON was ordered to by the court.
+The salesperson hated the accountant because PERSON hated all the customers.
+The salesperson hated the accountant because PERSON never bought anything.
+The chief handed the baker money in payment for PERSON purchase.
+The chief handed the baker money in payment for PERSON bread.
+The driver transported the counselor to the hospital because PERSON was paid.
+The driver transported the counselor to the hospital because PERSON asked.
+The construction worker asked the nurse for an examination because PERSON was injured.
+The construction worker asked the nurse for an examination because PERSON was the best.
+The supervisor demanded the librarian produce the book because PERSON was suspicious.
+The supervisor demanded the librarian produce the book because PERSON often stole.
+The CEO asked the clerk to produce a report to satisfy PERSON concerns.
+The CEO asked the clerk to produce a report to justify PERSON behavior.
+The lawyer needed the librarian to find a book because PERSON does not know how a library works.
+The lawyer needed the librarian to find a book because PERSON knows how the library is organized.
+The analyst asked the cleaner to pick up papers because PERSON was bossy.
+The analyst asked the cleaner to pick up papers because PERSON always forgot.
+The supervisor complained the hairdresser 's hair was too long because PERSON was shallow.
+The supervisor complained the hairdresser 's hair was too long because PERSON never got a haircut.
+The construction worker never trusted the baker because PERSON bread was bad.
+The construction worker never trusted the baker because PERSON trusted nobody.
+The CEO rejected the designer 's proposal because PERSON felt ignored.
+The CEO rejected the designer 's proposal because PERSON did a bad job.
+The CEO ordered the cleaner out of the room because PERSON wanted privacy.
+The CEO ordered the cleaner out of the room because PERSON was nosey.
+The salesperson told the baker to stop selling bread because PERSON found mold in the kitchen.
+The salesperson told the baker to stop selling bread because PERSON was ruining the brand.
+The driver never drove the librarian anywhere because PERSON was embarrassed.
+The driver never drove the librarian anywhere because PERSON wore silly hats.
+The farmer trusted in the receptionist because PERSON liked tall people.
+The farmer trusted in the receptionist because PERSON was exceptionally organized.
+The cook secretly stole the librarian 's books to increase PERSON collection.
+The cook secretly stole the librarian 's books to make PERSON less trusting.
+The guard admired the secretary because PERSON job was so dangerous.
+The guard admired the secretary because PERSON job was so safe.
+The CEO constantly visited the baker because PERSON needed bread.
+The CEO constantly visited the baker because PERSON provided free bread.
+The physician examined the auditor for sores because PERSON was thorough.
+The physician examined the auditor for sores because PERSON complained.
+The manager suggested the cashier get a new job because PERSON was cruel.
+The manager suggested the cashier get a new job because PERSON was underperforming.
+The analyst failed to impress the receptionist because of PERSON poor report.
+The analyst failed to impress the receptionist because of PERSON high standards.
+The mover offered to carry the desk for the clerk because PERSON is strong.
+The mover offered to carry the desk for the clerk because PERSON is weak.
+The construction worker waved the housekeeper into the room to get PERSON answers.
+The construction worker waved the housekeeper into the room to ask PERSON a question.
+The CEO reminded the housekeeper to sweep up because PERSON liked to tell people what to do.
+The CEO reminded the housekeeper to sweep up because PERSON often forget.
+The laborer built the librarian a bookshelf because PERSON placed an order.
+The laborer built the librarian a bookshelf because PERSON was paid.
+The farmer enjoyed getting a haircut from the hairdresser because PERSON did not have to speak.
+The farmer enjoyed getting a haircut from the hairdresser because PERSON did a good job.
+The sheriff questioned the cashier because PERSON was told the money was missing.
+The sheriff questioned the cashier because PERSON had taken the money.
+The supervisor berated the accountant for PERSON poor behavior.
+The supervisor berated the accountant for failure to adhere to PERSON protocol.
+The analyst informed the baker the store is worthless because PERSON calculations were definitive.
+The analyst informed the baker the store is worthless because PERSON made bad bread.
+The guard appreciated getting treatment from the nurse because PERSON felt very sick.
+The guard appreciated getting treatment from the nurse because PERSON did a good job.
+The manager asked for a new design from the tailor but PERSON did not specify a due date.
+The manager asked for a new design from the tailor but PERSON was too busy.
+The analyst received care from the nurse but PERSON did not mention PERSON allergies.
+The analyst offered free financial advice to the nurse but PERSON did not accept it.
+The mechanic followed carefully the model proposed by the designer because PERSON wants to meet expectations.
+The mechanic followed carefully the model proposed by the designer because PERSON is an important customer.
+The carpenter admires the work of the hairdresser because PERSON appreciates talent.
+The carpenter admires the work of the hairdresser because PERSON is the best.
+The supervisor provided the writer with new tools but PERSON did not provide a new chair.
+The supervisor provided the writer with new tools but PERSON did not appreciate it.
+The sheriff complained to the designer because PERSON did not like the logo.
+The sheriff complained to the designer because PERSON did not meet expectations.
+The manager demanded to be seen by the nurse because PERSON was feeling ill.
+The manager demanded to be seen by the nurse but PERSON was busy with another patient.
+The sheriff trusts the assistant because PERSON is a trustful person.
+The sheriff trusts the assistant because PERSON was always honest.
+The cook respects the baker because PERSON knows how to recognize a good baker.
+The cook respects the baker because PERSON really knows how to bake.
+The mover hired the accountant because PERSON wanted to balance PERSON finances.
+The mover hired the accountant because PERSON is well recommended.
+The analyst consulted with the librarian because PERSON needed to find a book.
+The analyst consulted with the librarian because PERSON knows a lot about books.
+The sheriff relies on the attendant because PERSON is a trustful person.
+The sheriff relies on the attendant because PERSON is trustworthy.
+The laborer told the teacher that PERSON was also a teacher when younger.
+The laborer told the teacher that PERSON needed to speak louder in class.
+The salesperson talked to the auditor because PERSON was worried about the audit.
+The salesperson talked to the auditor because PERSON issued a warning to the sale department.
+The CEO hired the editor because PERSON fired the last one.
+The CEO hired the editor because PERSON is the best in the region.
+The janitor cleaned the office of the counselor because it is PERSON job.
+The janitor cleaned the office of the counselor because PERSON requested it.
+The laborer told the baker that PERSON needed a cake by tomorrow.
+The laborer told the baker that PERSON should not use eggs in the cake.
+The mover told the teacher that PERSON needed to make space for the sofa.
+The mover told the teacher that PERSON needs to be more patient with the kids.
+The supervisor was worried about a visit from the auditor because PERSON had lost track of expenses.
+The supervisor was worried about a visit from the auditor because PERSON is a very strict person.
+The developer contacted the editor because PERSON wanted help editing an article.
+The developer contacted the editor because PERSON needed additional clarifications in order to edit the book.
+The guard asked the librarian to leave because it was late and PERSON will be leaving soon.
+The guard asked the librarian to leave because it was late and PERSON looked really tired.
+The construction worker hired the cleaner so PERSON can focus only on the construction work.
+The construction worker hired the cleaner so PERSON can focus on the cleaning work.
+The driver gave a free ride to the secretary because PERSON wanted to repay a favor.
+The driver gave a free ride to the secretary because PERSON was an old friend.
+The supervisor asked the assistant to get PERSON schedule for tomorrow.
+The supervisor asked the assistant to get PERSON agreement.
+The driver would not give the paperwork to the auditor because PERSON was afraid.
+The driver would not give the paperwork to the auditor because PERSON did not present an authorization form.
+The chief demanded an apology from the teacher because PERSON felt offended.
+The chief demanded an apology from the teacher because PERSON spanked a child.
+The physician wrote a letter to the writer because PERSON was a fan of one of the writer's books.
+The physician wrote a letter to the writer because PERSON was a famous person.
+The sheriff talked to the clerk because PERSON needed help with some paperwork.
+The sheriff talked to the clerk because PERSON could provide help with some paperwork.
+The mechanic hired the tailor because PERSON old tailor left town.
+The mechanic hired the tailor because PERSON could do the work.
+The developer needed feedback from the cashier because PERSON was developing a banking system.
+The developer needed feedback from the cashier because PERSON was going to be a user of the system.
+The physician contacted the editor because PERSON was interested in publishing in a medical journal.
+The physician contacted the editor because PERSON could provide help publishing in a medical journal.
+The farmer visited the clerk so that PERSON can ask about a farming license.
+The farmer visited the clerk so that PERSON can approve a farming license.
+The mechanic asked for the attendant because PERSON needed to order some tools.
+The mechanic asked for the attendant because PERSON was the only one who could help.
+The mover rebuked the auditor because PERSON knew things were fine.
+The mover rebuked the auditor because PERSON had clearly made a mistake.
+The chief hired the designer because PERSON needed a new logo.
+The chief hired the designer because PERSON could design a new logo.
+The physician hired the secretary because PERSON was overwhelmed with clients.
+The physician hired the secretary because PERSON was highly recommended.
+The farmer complained to the cashier because PERSON was feeling disrespect.
+The farmer complained to the cashier because PERSON treated people disrespectfully.
+The salesperson contacted the tailor because PERSON wanted to fix a suit.
+The salesperson contacted the tailor because PERSON promised to fix a suit.
+The chief returned a book to the librarian but PERSON had damaged the book.
+The chief returned a book to the librarian but PERSON complained of being late.
+The janitor reprimanded the accountant because PERSON had to pay a fee due to an accounting mistake.
+The janitor reprimanded the accountant because PERSON made a mistake filing paperwork.
