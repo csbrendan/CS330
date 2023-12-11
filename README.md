@@ -9,8 +9,8 @@ https://github.com/csbrendan/CS330/blob/main/poster/CS330_Project_Poster_Final.p
 
 ## Requirements
 
-- Crows-Pairs dataset
-- Stereo Set benchmark
+- WinoBias dataset
+- StereoSet evaluation framework
 - PyTorch
 
 
