@@ -20,7 +20,7 @@ The code in this project was re-used, adapted and inspired from the following so
 
 https://github.com/McGill-NLP/bias-bench
 
-https://github.com/nyu-mll/crows-pairs
+https://huggingface.co/datasets/wino_bias
 
 
 
