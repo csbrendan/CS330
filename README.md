@@ -1,4 +1,4 @@
-# Optimizing Bias Mitigation in LLMs: A Study of Fine-Tuning Techniques and Augmented Data
+# Optimizing Bias Mitigation in LMs: A Study of Fine-Tuning Techniques and Augmented Data
 
 ## Paper
 https://github.com/csbrendan/CS330/blob/main/paper/CS330_Project_Final.pdf
