@@ -41,13 +41,10 @@ git clone https://github.com/McGill-NLP/bias-bench.git
 Run: python -m pip install -e .
 
 To finetune gpt-2:
-
 python ft_project.py
 
 To run stereo set against that saved model:
-
 python /bias-bench/experiments/stereoset_debias.py --bias_type gender--load_path ‘/path/to/saved/models/‘
 
 To generate evaluation result:
-
 python /bias-bench/experiments/stereoset_evaluation.py --predictions_dir "/bias-bench/results/stereoset_file_output_from_above_script/“ --output_file “your_evaluation_results.json"
