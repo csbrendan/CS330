@@ -1,0 +1,222 @@
+{
+  "GENDER_LL_CDA_DS2_stereoset_m-CDAGPT2LMHeadModel_c-gpt2_t-gender_s-42": {
+    "intrasentence": {
+      "gender": {
+        "Count": 2313.0,
+        "LM Score": 91.58751681065523,
+        "SS Score": 62.378603780952616,
+        "ICAT Score": 68.91300517304646
+      },
+      "overall": {
+        "Count": 6392.0,
+        "LM Score": 90.574360031503,
+        "SS Score": 60.04200057308144,
+        "ICAT Score": 72.38340452464625
+      }
+    },
+    "overall": {
+      "Count": 6392.0,
+      "LM Score": 90.574360031503,
+      "SS Score": 60.04200057308144,
+      "ICAT Score": 72.38340452464625
+    }
+  },
+  "GENDER_LL_NM_DS2_stereoset_m-CDAGPT2LMHeadModel_c-gpt2_t-gender_s-42": {
+    "intrasentence": {
+      "gender": {
+        "Count": 2313.0,
+        "LM Score": 91.41416023220123,
+        "SS Score": 61.3666514080807,
+        "ICAT Score": 70.63270236976393
+      },
+      "overall": {
+        "Count": 6392.0,
+        "LM Score": 90.5606943395597,
+        "SS Score": 59.83527024317506,
+        "ICAT Score": 72.74691629477684
+      }
+    },
+    "overall": {
+      "Count": 6392.0,
+      "LM Score": 90.5606943395597,
+      "SS Score": 59.83527024317506,
+      "ICAT Score": 72.74691629477684
+    }
+  },
+  "GENDER_ICL1_stereoset_m-CDAGPT2LMHeadModel_c-gpt2_s-42": {
+    "intrasentence": {
+      "gender": {
+        "Count": 2313.0,
+        "LM Score": 92.52770396168698,
+        "SS Score": 61.45078219668426,
+        "ICAT Score": 71.33741225719585
+      },
+      "overall": {
+        "Count": 6392.0,
+        "LM Score": 91.5465940925142,
+        "SS Score": 60.057940107182745,
+        "ICAT Score": 73.13119088453264
+      }
+    },
+    "overall": {
+      "Count": 6392.0,
+      "LM Score": 91.5465940925142,
+      "SS Score": 60.057940107182745,
+      "ICAT Score": 73.13119088453264
+    }
+  },
+  "GENDER_ICL2_stereoset_m-CDAGPT2LMHeadModel_c-gpt2_s-42": {
+    "intrasentence": {
+      "gender": {
+        "Count": 2313.0,
+        "LM Score": 92.50469334374883,
+        "SS Score": 62.41777019693062,
+        "ICAT Score": 69.53065286214462
+      },
+      "overall": {
+        "Count": 6392.0,
+        "LM Score": 91.4900214347584,
+        "SS Score": 60.121171142411555,
+        "ICAT Score": 72.97029813947657
+      }
+    },
+    "overall": {
+      "Count": 6392.0,
+      "LM Score": 91.4900214347584,
+      "SS Score": 60.121171142411555,
+      "ICAT Score": 72.97029813947657
+    }
+  },
+  "GENDER_ICL3_stereoset_m-CDAGPT2LMHeadModel_c-gpt2_s-42": {
+    "intrasentence": {
+      "gender": {
+        "Count": 2313.0,
+        "LM Score": 92.30368247352254,
+        "SS Score": 61.78612147102902,
+        "ICAT Score": 70.54563419639796
+      },
+      "overall": {
+        "Count": 6392.0,
+        "LM Score": 91.00760756435514,
+        "SS Score": 59.883289796669516,
+        "ICAT Score": 73.01851637915325
+      }
+    },
+    "overall": {
+      "Count": 6392.0,
+      "LM Score": 91.00760756435514,
+      "SS Score": 59.883289796669516,
+      "ICAT Score": 73.01851637915325
+    }
+  },
+  "BASE_GPT2_stereoset_m-CDAGPT2LMHeadModel_c-gpt2_s-42": {
+    "intrasentence": {
+      "gender": {
+        "Count": 2313.0,
+        "LM Score": 92.01218436319637,
+        "SS Score": 62.6460866303445,
+        "ICAT Score": 68.74030327311215
+      },
+      "overall": {
+        "Count": 6392.0,
+        "LM Score": 91.01442389024014,
+        "SS Score": 60.42310108475473,
+        "ICAT Score": 72.04137308266637
+      }
+    },
+    "overall": {
+      "Count": 6392.0,
+      "LM Score": 91.01442389024014,
+      "SS Score": 60.42310108475473,
+      "ICAT Score": 72.04137308266637
+    }
+  },
+  "GENDER_RGN_CDA_DS2_stereoset_m-CDAGPT2LMHeadModel_c-gpt2_t-gender_s-42": {
+    "intrasentence": {
+      "gender": {
+        "Count": 2313.0,
+        "LM Score": 92.16342408724967,
+        "SS Score": 62.22205048454425,
+        "ICAT Score": 69.63490364679312
+      },
+      "overall": {
+        "Count": 6392.0,
+        "LM Score": 91.02097544735675,
+        "SS Score": 60.06348518939435,
+        "ICAT Score": 72.70121068058272
+      }
+    },
+    "overall": {
+      "Count": 6392.0,
+      "LM Score": 91.02097544735675,
+      "SS Score": 60.06348518939435,
+      "ICAT Score": 72.70121068058272
+    }
+  },
+  "GENDER_RGN_NM_DS2_stereoset_m-CDAGPT2LMHeadModel_c-gpt2_t-gender_s-42": {
+    "intrasentence": {
+      "gender": {
+        "Count": 2313.0,
+        "LM Score": 92.16342408724967,
+        "SS Score": 62.22205048454425,
+        "ICAT Score": 69.63490364679312
+      },
+      "overall": {
+        "Count": 6392.0,
+        "LM Score": 91.02615562983448,
+        "SS Score": 60.0057755930054,
+        "ICAT Score": 72.8104099033123
+      }
+    },
+    "overall": {
+      "Count": 6392.0,
+      "LM Score": 91.02615562983448,
+      "SS Score": 60.0057755930054,
+      "ICAT Score": 72.8104099033123
+    }
+  },
+  "GENDER_ALL_CDA_stereoset_m-CDAGPT2LMHeadModel_c-gpt2_t-gender_s-42": {
+    "intrasentence": {
+      "gender": {
+        "Count": 2313.0,
+        "LM Score": 91.49222419213675,
+        "SS Score": 55.25035568296438,
+        "ICAT Score": 81.88488980745201
+      },
+      "overall": {
+        "Count": 6392.0,
+        "LM Score": 89.65908534722004,
+        "SS Score": 53.5777956352254,
+        "ICAT Score": 83.24344766294833
+      }
+    },
+    "overall": {
+      "Count": 6392.0,
+      "LM Score": 89.65908534722004,
+      "SS Score": 53.5777956352254,
+      "ICAT Score": 83.24344766294833
+    }
+  },
+  "GENDER_ALL_NM_stereoset_m-CDAGPT2LMHeadModel_c-gpt2_t-gender_s-42": {
+    "intrasentence": {
+      "gender": {
+        "Count": 2313.0,
+        "LM Score": 87.97042054092279,
+        "SS Score": 55.74923778629427,
+        "ICAT Score": 77.85516322392137
+      },
+      "overall": {
+        "Count": 6392.0,
+        "LM Score": 87.39681984437676,
+        "SS Score": 52.4645868789977,
+        "ICAT Score": 83.08887873528523
+      }
+    },
+    "overall": {
+      "Count": 6392.0,
+      "LM Score": 87.39681984437676,
+      "SS Score": 52.4645868789977,
+      "ICAT Score": 83.08887873528523
+    }
+  }
+}
