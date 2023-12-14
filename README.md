@@ -1,7 +1,7 @@
 # Optimizing Bias Mitigation in LMs: A Study of Fine-Tuning Techniques and Augmented Data
 
 ## Paper
-https://github.com/csbrendan/CS330/blob/main/paper/CS330_Project_Final.pdf
+https://github.com/csbrendan/CS330/blob/main/paper/CS330_Project.pdf
 
 ## Poster
 https://github.com/csbrendan/CS330/blob/main/poster/CS330_Project_Poster_Final.pdf
