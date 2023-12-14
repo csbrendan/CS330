@@ -1,0 +1,24 @@
+{
+  "stereoset_m-CDAGPT2LMHeadModel_c-gpt2_t-gender_s-42": {
+    "intrasentence": {
+      "gender": {
+        "Count": 2313.0,
+        "LM Score": 93.94832286237832,
+        "SS Score": 63.11715537964914,
+        "ICAT Score": 69.30162788951311
+      },
+      "overall": {
+        "Count": 6392.0,
+        "LM Score": 92.18837444553226,
+        "SS Score": 59.822861128710095,
+        "ICAT Score": 74.07730244833247
+      }
+    },
+    "overall": {
+      "Count": 6392.0,
+      "LM Score": 92.18837444553226,
+      "SS Score": 59.822861128710095,
+      "ICAT Score": 74.07730244833247
+    }
+  }
+}
