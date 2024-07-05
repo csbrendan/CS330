@@ -12,7 +12,7 @@ https://github.com/csbrendan/CS330/blob/main/paper/CS330_Project.pdf
 https://github.com/csbrendan/CS330/blob/main/poster/CS330_Project_Poster_Final.pdf
 
 ## Video
-https://www.youtube.com/watch?v=PI0ejpl-R6E&t=3s
+https://www.youtube.com/watch?v=PI0ejpl-R6E
 
 ## Requirements
 
